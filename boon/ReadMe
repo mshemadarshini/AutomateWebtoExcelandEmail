@@ -1,0 +1,7 @@
+This is an automation script using python selenium
+The script purpose to navigate through browser, in this case it would be chrome
+It has been writen to operate in window platform
+The script would login ssh credential and automatically navigate to designated site and then download a report
+The report then would be automatically saved into a designated file
+The Script then would email the report to various email address
+This would be packed as application to be run in window os.
